@@ -34,8 +34,8 @@ This project provides a comprehensive statistical analysis toolkit for display m
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com/yourusername/display-Lxy_stat.git
-display-Lxy_stat
+git clone https://github.com/yourusername/display_stat.git
+display_stat
 ```
 
 ### 2. Install Dependencies
